@@ -1,0 +1,9 @@
+C:\Users\DinhHai\Desktop\bt\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\bin\Debug\TRuongDinhHai_Buoi3.exe.config
+C:\Users\DinhHai\Desktop\bt\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\bin\Debug\TRuongDinhHai_Buoi3.exe
+C:\Users\DinhHai\Desktop\bt\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\bin\Debug\TRuongDinhHai_Buoi3.pdb
+C:\Users\DinhHai\Desktop\bt\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\obj\Debug\TRuongDinhHai_Buoi3.csprojResolveAssemblyReference.cache
+C:\Users\DinhHai\Desktop\bt\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\obj\Debug\TRuongDinhHai_Buoi3.Form1.resources
+C:\Users\DinhHai\Desktop\bt\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\obj\Debug\TRuongDinhHai_Buoi3.Properties.Resources.resources
+C:\Users\DinhHai\Desktop\bt\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\obj\Debug\TRuongDinhHai_Buoi3.csproj.GenerateResource.Cache
+C:\Users\DinhHai\Desktop\bt\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\obj\Debug\TRuongDinhHai_Buoi3.exe
+C:\Users\DinhHai\Desktop\bt\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\obj\Debug\TRuongDinhHai_Buoi3.pdb
